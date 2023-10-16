@@ -1,6 +1,5 @@
 # Исследование успешности игр
 
-[HTML](https://disk.yandex.ru/d/fFJhhDTKTOWuow)
 [ipynb](https://github.com/Denis-Dorofeev/yandex_practicum_projects/blob/main/Исследование%20успешности%20игр/Исследование%20успешности%20игр.ipynb)
 
 ## Задача
